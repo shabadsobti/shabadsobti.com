@@ -1,3 +1,5 @@
+/* eslint-disable implicit-arrow-linebreak */
+
 'use strict';
 
 const siteConfig = require('./config.js');
