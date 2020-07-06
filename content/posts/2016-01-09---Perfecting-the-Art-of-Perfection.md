@@ -6,10 +6,12 @@ socialImage: /media/image-2.jpg
 title: AutoMapper Fundamentals to Make Your Application Cleaner
 date: 2020-07-05T23:59:33.595Z
 description: AutoMapper Basics That Will Help You Become a Better Developer
-category: Design Inspiration
+category: Programming
 tags:
-  - Handwriting
-  - Learning to write
+  - C#
+  - .NET Core
+  - Programming
+  - AutoMapper
 ---
 If you have some experience with the .NET Core/C# ecosystem, you are probably not new to AutoMapper. When I began working with .NET core, being unfamiliar with AutoMapper confused me. The purpose of this article will be to understand AutoMapper, and all that it is capable of.
 
@@ -28,3 +30,11 @@ Let’s try this out with an example, and set up a controller that returns the l
 If we navigate to this endpoint on the browser, the response consists of a list of users. But it also returns the password of each user, which is a big security vulnerability. Here is where AutoMapper comes in. AutoMapper provides a way to map the user model to another model (often called DTO’s or ViewModels) which does not have the password property.
 
 ![](/media/automapper-code-03.png)
+
+## Setting up AutoMapper
+
+* Install the AutoMapper package and the AutoMapper dependency package from NuGet.
+
+To start, we create another model that does not have the password property.
+
+> #### This is called a DTO (Data Transfer Object) or ViewModel.
