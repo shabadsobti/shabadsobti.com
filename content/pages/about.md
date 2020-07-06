@@ -1,7 +1,7 @@
 ---
 template: page
 title: About me
-socialImage: /media/image-2.jpg
+socialImage: /media/shabad_about.jpg
 slug: about
 draft: false
 ---
