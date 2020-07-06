@@ -1,7 +1,9 @@
 ---
-title: 'About me'
-template: 'page'
-socialImage: '/media/image-2.jpg'
+template: page
+title: About me
+socialImage: /media/image-2.jpg
+slug: about
+draft: true
 ---
 
 Hi! :rocket: <br>
