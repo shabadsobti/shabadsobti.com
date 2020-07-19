@@ -14,11 +14,9 @@ tags:
 ---
 ![](/media/3thingsworkingonsolohero.jpeg "Photo by NESA by Makers on Unsplash")
 
-
-
 While I have been programming and developing applications since I was 12, this week marks my official first year as a Software Engineer in the industry. Reflecting on my first year, I picked out a few concepts that I picked up.
 
-# Versioning
+## Versioning
 
 Over the years, I have built several applications (for Hackathons, personal projects, or just trying to learn about some tools). Building these projects have helped me a lot in understanding the development workflow, and exposed me to countless tools and libraries. However, since these were just personal projects, most of them never made it to production. The ones that did were simple enough and did not need any support for versioning.
 
@@ -44,7 +42,7 @@ According to the Semantic Version specification:
 2. We update the Minor version when we add functionality in a backward-compatible manner (i.e., there will be little to no changes required on a software that is dependent on this artifact).
 3. We update the Patch version when we make backward-compatible bug fixes (i.e., there are no changes except bug fixing or refactoring).
 
-## Where to track these numbers?
+### Where to track these numbers?
 
 A common approach to track these numbers is to use git tags. Whenever we commit, and we want to increment the version number, we tag the repo at that point with the version number.
 
@@ -52,9 +50,9 @@ A common approach to track these numbers is to use git tags. Whenever we commit,
 
 Note: Many third-party libraries will track the versions for your application and will also tag the git repos.
 
-If you’re interested in reading more, you can read more on their [website](semver.org).
+If you’re interested in reading more, you can read more on their [website](https://semver.org/).
 
-# Testing, Testing, and More Testing
+## Testing, Testing, and More Testing
 
 How many of you write tests for your side projects? None? Well, that’s at least how I did it. I never realized why testing is vital until I got the chance to see a pretty large codebase (> 60,000 loc).
 
