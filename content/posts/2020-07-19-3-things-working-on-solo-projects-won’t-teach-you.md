@@ -2,7 +2,7 @@
 template: post
 title: 3 Things Working on Solo Projects Won’t Teach You
 slug: 3-Things-Working-on-Solo-Projects-Won’t-Teach-You
-draft: true
+draft: false
 date: 2020-07-14T16:15:48.055Z
 description: Versioning, Testing, and Git
 category: Software Engineering
