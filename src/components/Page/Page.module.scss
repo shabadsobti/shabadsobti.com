@@ -20,6 +20,15 @@
     font-size: $typographic-base-font-size;
     @include line-height(1);
     @include margin(0, 0, 1);
+
+    figure {
+      height: auto;
+      margin: 0 !important;
+      img {
+        max-width: 100%;
+        height: auto;
+      }
+    }
   }
 }
 
