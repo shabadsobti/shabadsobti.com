@@ -13,7 +13,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Posts',
       path: '/',
     },
     {
@@ -34,7 +34,7 @@ module.exports = {
       email: 'shabad.sobti@gmail.com',
       facebook: '',
       telegram: '',
-      twitter: '',
+      twitter: 'ShabadSobti',
       github: 'shabadsobti',
       rss: '',
       vkontakte: '',

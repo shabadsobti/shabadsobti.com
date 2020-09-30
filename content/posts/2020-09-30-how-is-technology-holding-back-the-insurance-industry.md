@@ -5,13 +5,7 @@ slug: How-is-Technology-Holding-Back-the-Insurance-Industry
 draft: false
 date: 2020-09-11T18:12:55.038Z
 description: Many insurers are functioning on outdated legacy technology stacks
-  and neglected architecture. While some national insurance companies have
-  followed the direct-to-consumer trend, many insurers haven’t begun modernizing
-  or don’t know where to start. The longer they wait, the harder they’ve found
-  it to support these legacy systems and attract and retain large market
-  segments with higher product expectations. Insurtech startups who have fully
-  embraced a personalized digital experience are taking advantage and rapidly
-  acquiring market share.
+  and neglected architecture.
 category: Technology
 tags:
   - Modernization
