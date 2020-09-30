@@ -1,7 +1,7 @@
 ---
 template: post
 title: How is Technology Holding Back the Insurance Industry?
-slug: How is Technology Holding Back the Insurance Industry
+slug: How-is-Technology-Holding-Back-the-Insurance-Industry
 draft: true
 date: 2020-09-11T18:12:55.038Z
 description: Many insurers are functioning on outdated legacy technology stacks
