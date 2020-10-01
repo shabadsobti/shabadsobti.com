@@ -2,7 +2,7 @@
 template: page
 title: Projects
 slug: projects
-draft: true
+draft: false
 ---
 
-Coming Soon!
+Coming Soon! Stay Tuned. :eyes:
