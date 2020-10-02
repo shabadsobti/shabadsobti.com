@@ -9,18 +9,18 @@ draft: false
 - [Third World Code](#third-world-code)
 - [ImagineCode](#imaginecode)
 
-### ConnectMe
+## ConnectMe
 
 - Also known as TexMe
 - HackUVA Winner
 
-ConnectMe was a platform with a mission to increase internet accessibility across the globe and bring down the barriers that hold the west apart from the east. Providing easy access to information in these parts of the world is the first step in achieving this goal. Our first platform TexMe (MVP) leverages mobile network to connect people to the internet and give them access to information over voice call and text messages. The concept of TexMe was first thought of at HackUVa where it was awarded - The Best Mobile Hack Prize and the Freedom Prize. After that TexMe was awarded the University of Virginia Pike Expo Entrepreneurship Award. Although still young, we strived to make an impact each day. We aspired to be the paragon of equality, championing equal access to what has become a fundamental resource in the world - the internet.
+ConnectMe was a platform with a mission to increase internet accessibility across the globe and bring down the barriers that hold the west apart from the east. Providing easy access to information in these parts of the world is the first step in achieving this goal. Our first platform TexMe (MVP) leverages cellular network to connect people to the internet and give them access to information over voice call and text messages. The concept of TexMe was first thought of at HackUVa where it was awarded - The Best Mobile Hack Prize and the Freedom Prize. After that TexMe was awarded the University of Virginia Pike Expo Entrepreneurship Award. Although still young, we strived to make an impact each day. We aspired to be the paragon of equality, championing equal access to what has become a fundamental resource in the world - the internet.
 
 [Product Feature Video](https://www.youtube.com/watch?v=ll8-GjCxE3c)
 <br>
 [Charlottesville Tomorrow Media Coverage](https://www.cvilletomorrow.org/articles/uva-grads-offer-advice-encouragement-to-budding)
 
-### Third World Code
+## Third World Code
 
 - HackUVA - Grand Prize Winner
 
@@ -30,7 +30,7 @@ This drove us to develop the idea of Third World Code. A platform that facilitat
 
 [DevPost Page](https://devpost.com/software/third-world-code)
 
-### ImagineCode
+## ImagineCode
 
 It brings all the resources to a resource limited
 classroom. Using our platform, a deskilled curriculum can be run by a facilitator, and reduce the
